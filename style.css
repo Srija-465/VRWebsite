@@ -1,0 +1,436 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+#custom-nav-link {
+    color: #323f4b;
+}
+
+#custom-nav-link1 {
+    color: #323f4b;
+}
+
+#custom-nav-link2 {
+    color: #323f4b;
+}
+
+#custom-nav-link3 {
+    color: #323f4b;
+}
+
+.bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-banner-bg.png");
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+}
+
+.h1 {
+    color: white;
+}
+
+.button123 {
+    background-color: #1a2137;
+    color: white;
+    height: 45px;
+    width: 100px;
+    border-radius: 10px;
+}
+
+.header {
+    color: #1f2933;
+    margin-inline-start: 40px;
+    font-size: 40px;
+}
+
+.card {
+    background-color: white;
+
+    border: 1px solid #e5eaf4;
+    border-radius: 16px;
+    padding: 10px;
+    margin: 10px;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.image {
+    height: 50%;
+    width: 50%;
+    text-align: center;
+}
+
+p {
+    color: #7b8794;
+}
+
+h1 {
+    font-weight: normal;
+}
+
+.para {
+    color: black;
+    font-weight: bold;
+}
+
+.v {
+    text-align: center;
+}
+
+.header {
+    color: #323f4b;
+    margin-top: 10px;
+}
+
+.card1 {
+
+    background-color: #f9fbfe;
+    border-color: #f9fbfe;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.card2 {
+    background-color: #f9fbfe;
+    border-color: #f9fbfe;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+
+}
+
+.card1 {
+    background-color: #f9fbfe;
+    border-color: #f9fbfe;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.image1 {
+    height: 250px;
+    width: 200px;
+
+    margin-top: 10px;
+}
+
+.bg-container1 {
+    background-color: #f9fbfe;
+    background-size: cover;
+    height: 100%;
+}
+
+.p1 {
+    color: #323f4b;
+    font-size: 30px;
+}
+
+.h12 {
+    color: #1f2933;
+}
+
+.p12 {
+    color: #7b8794;
+}
+
+.button12 {
+    background-color: #1a2137;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    border-color: black;
+    border-radius: 4px;
+    margin-bottom: 40px;
+
+}
+
+.image12 {
+    height: 60%;
+    width: 80%;
+    margin-top: 40px;
+}
+
+.h13 {
+    color: white;
+    text-align: center;
+}
+
+.button13 {
+    background-color: transparent;
+    border-color: white;
+    color: white;
+    height: 40px;
+    width: 110px;
+    text-align: center;
+    margin-left: 20px;
+}
+
+.bg {
+    padding: 20px;
+    background-color: #222b36;
+    height: 100%;
+}
+
+.heading {
+    color: #1f2933;
+}
+
+.bg-container2 {
+    background-color: white;
+}
+
+.image23 {
+    width: 95%;
+}
+
+.para23 {
+    color: #959ead;
+    margin-left: 10px;
+}
+
+.anc {
+    color: #1754a1;
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+.section-card {
+    background-color: white;
+    margin: 10px;
+
+}
+
+.p23 {
+    margin-left: 10px;
+    color: #323f4b;
+}
+
+.button23 {
+    color: white;
+    background-color: #1754a1;
+    padding: 20px;
+    border-style: none;
+    text-align: right;
+    margin-left: 300px;
+}
+
+.right {
+    text-align: center;
+}
+
+.bg-container3 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-img.png");
+    background-size: cover;
+    height: 100%;
+
+}
+
+.head32 {
+    color: #1f2933;
+    font-weight: bold;
+}
+
+.btn {
+    background-color: transparent;
+    border-color: white;
+    color: white;
+}
+
+.header32 {
+    color: white;
+    padding-top: 330px;
+    margin-left: 30px;
+
+}
+
+.bg32 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-with-controllers-img.png");
+    background-size: cover;
+    height: 100%;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+.button32 {
+    background-color: #1754a1;
+    color: white;
+    padding: 15px;
+    border: 1px solid #ffffff;
+    border-radius: 1px;
+}
+
+.main32 {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin: 10px;
+    margin-top: 30px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+
+}
+
+.main-container {
+    background-color: #202b36 !important;
+    background-size: cover;
+    height: 100%;
+}
+
+.footer-container {
+    padding: 30px 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.address {
+    order: 1;
+    margin-bottom: 20px;
+    color: #959ead !important;
+    margin-top: 10px;
+}
+
+.contact {
+    order: 2;
+    margin-bottom: 20px;
+
+    margin: 10px;
+    color: #959ead !important;
+}
+
+h3 {
+    color: #959ead !important;
+}
+
+.help-section {
+    order: 3;
+    margin-bottom: 20px;
+    margin: 10px;
+    color: #959ead !important;
+}
+
+.social-icons {
+    order: 4;
+    display: flex;
+    gap: 15px;
+    margin-bottom: 20px;
+    margin: 20px;
+    color: #959ead !important;
+}
+
+.social-icons a {
+
+    font-size: 20px;
+    transition: color 0.3s;
+    color: #959ead !important;
+}
+
+.social-icons a:hover {
+    color: #007bff;
+}
+
+.copyright {
+    order: 5;
+    text-align: center;
+    margin-top: 20px;
+    color: #6c757d;
+    font-size: 14px;
+}
+
+.help-section ul {
+    list-style-type: none;
+}
+
+.help-section ul li {
+    margin-bottom: 8px;
+}
+
+h3 {
+    margin-bottom: 10px;
+    color: #333;
+}
+
+.image-size {
+    height: 60px;
+    width: 60px;
+    margin: 20px;
+}
+
+@media (min-width: 768px) {
+    .footer-container {
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    .address {
+        order: 2;
+        text-align: right;
+        flex: 1;
+        margin-bottom: 0;
+    }
+
+    .contact {
+        order: 1;
+        flex: 1;
+        margin-bottom: 0;
+    }
+
+    .help-section {
+        order: 3;
+        flex: 100%;
+        margin-top: 20px;
+    }
+
+    .social-icons {
+        order: 4;
+        justify-content: center;
+        flex: 100%;
+    }
+}
+
+@media (min-width: 992px) {
+    .footer-container {
+        flex-wrap: nowrap;
+    }
+
+    .address {
+        order: 3;
+        text-align: right;
+        flex: 1;
+    }
+
+    .contact {
+        order: 1;
+        flex: 1;
+    }
+
+    .help-section {
+        order: 2;
+        flex: 2;
+        margin-top: 0;
+        margin-bottom: 0;
+        padding: 0 20px;
+    }
+
+    .social-icons {
+        order: 4;
+        flex: 1;
+        justify-content: flex-end;
+    }
+}
